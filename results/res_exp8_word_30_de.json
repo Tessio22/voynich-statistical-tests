@@ -1,0 +1,23 @@
+{
+ "german.txt": {
+  "voy_raw": -5.892,
+  "shuf_raw": -6.16,
+  "syn_raw": -4.7,
+  "syn_acc": 0.443,
+  "plain_ref": -2.978,
+  "lines": [
+   "ie",
+   "fw",
+   "lcn",
+   "ku",
+   "t",
+   "d",
+   "nemm",
+   "c",
+   "dg",
+   "uer",
+   "rt",
+   "d"
+  ]
+ }
+}

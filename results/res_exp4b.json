@@ -1,0 +1,62 @@
+{
+ "0_latin.txt": {
+  "merges": 0,
+  "units": 37,
+  "voynich": -3.76,
+  "shuffled": -4.832,
+  "synthetic": -3.64,
+  "synth_acc": 0.0,
+  "plain_ref": -2.918,
+  "sample": "irssasarirerarestistesieuasatestiisatesiretesaresaresrerauireireireasresuastesarestiitresiuairereasatetauustautaetitasiereiretaretetarearessureireireiretireusstiitstsiresaitrestiresssusstistaststastististassiresteatairestaitistissireiuaretiaiussarestssitiriuatastaststareetautitarestireaiusirestsiusa"
+ },
+ "0_italian.txt": {
+  "merges": 0,
+  "units": 37,
+  "voynich": -3.975,
+  "shuffled": -5.45,
+  "synthetic": -3.979,
+  "synth_acc": 0.326,
+  "plain_ref": -2.682,
+  "sample": "noeanasononosonsonsonasninasonsonnanonasononasonesonsononisonsonnonnaonsisaonasonsonsoonasinnononnanonosiiaosionnonosasionnonosononosonnonaeionsonsonsonononeasonsoaoanonsnsoonsononaasiasonaoseoaoseoneosaoneanoneonsonnonsonsonsonaanonsinononnsiaasonsosasononinossossoaosonnosionosonsononnsianonsoasias"
+ },
+ "0_german.txt": {
+  "merges": 0,
+  "units": 37,
+  "voynich": -3.444,
+  "shuffled": -4.749,
+  "synthetic": -3.358,
+  "synth_acc": 0.75,
+  "plain_ref": -2.942,
+  "sample": "neserenenenenersinsinesntreninsingerineseninenersnersenertsensengerreerstneinenersigsienestrgenerreririntteintirnininesnengerinerininerrerestensersenterigeneesinsieiegensrtiersigeneestesigeinsieinsinsiseirsegersinnirgersirtinsigeegerstrerinrsteenersisesigentrinsinsieinerrintininersigerrstegersiesten"
+ },
+ "20_latin.txt": {
+  "merges": 20,
+  "units": 57,
+  "voynich": -3.626,
+  "shuffled": -4.774,
+  "synthetic": -3.294,
+  "synth_acc": 0.384,
+  "plain_ref": -2.918,
+  "sample": "sutisisiiusisisuissisisusiisuisiuisustsisiusisisiussiusssiuisisussuiisisusisisussisiussisisiissiusussusitisisisiuusiisisuiuiussssuisuusiisisuistuistitusiustiustususssussisuiiussisiissiisisusisuusisssussuisusssiisussuusssissuisisussisuuiisssisuiusssssiisiustisisititisutisutisuusssistisutussusuiusitus"
+ },
+ "20_italian.txt": {
+  "merges": 20,
+  "units": 57,
+  "voynich": -4.228,
+  "shuffled": -5.39,
+  "synthetic": -2.997,
+  "synth_acc": 0.937,
+  "plain_ref": -2.682,
+  "sample": "isononanisononoinoiionaionioiniiinasioonoisoioioidionsioaninanonioninoiodinononionoinoinonoeiioniosiosinoionoianndiunononnnndiooannondinnononioonnoonononnoondioianoionoanonindioionnoonnonononondiiooonaonnosiioinosiondioinionninanionondeeioononndiiioinuainioionanononaionononondiaonaoniionionanisinono"
+ },
+ "20_german.txt": {
+  "merges": 20,
+  "units": 57,
+  "voynich": -3.465,
+  "shuffled": -4.661,
+  "synthetic": -3.808,
+  "synth_acc": 0.035,
+  "plain_ref": -2.942,
+  "sample": "rrrerereerrerereereererereereereeerrerrererrererererererreeerererreeererreerererrereereerereerreerrerreerererereereeerereeeererrreerereeerereerreerrerereerrererererrrerrereeererereerreererererereerrrerreerreereerrerererrerreerererrerereeerrereererrrreereeererererererererererererrerrerererrereereerer"
+ }
+}

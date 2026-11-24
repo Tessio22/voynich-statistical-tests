@@ -1,0 +1,2 @@
+glyph tokens 144048 symbols 37
+latinabbr {"voy_raw": -4.802, "shuf_raw": -6.616, "syn_raw": -3.642, "syn_acc": 0.955, "plain_ref": -3.382, "lines": ["7ouaparosocolondesdecafciparecdesta", "pecagocecarohulondocopifocfoctoC", "paoQdiraecarondetfeocafiptoconpa", "peneliiaeliepceselafUoctoneroneceroC", "pohauiocfonZocfon", "etocIadesZeaeatocdpfeondetoca", "adiadetaerueaeluesuefaepuatobuecrep", "tondepfesdeta", "atobZiponespZiaalobdedaZetosip", "erderdeaelohbelieseroCdetobpgiaton", "deagiaretonZaZetoUUspfiadeestobt", "tobenuesetonuetobutaerobfaret"]}

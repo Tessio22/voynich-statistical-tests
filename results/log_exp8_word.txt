@@ -1,0 +1,8 @@
+word tokens 21916 symbols 823
+latin.txt {"voy_raw": -5.796, "shuf_raw": -5.662, "syn_raw": -3.832, "syn_acc": 0.797, "plain_ref": -2.972, "lines": ["sc", "pb", "eot", "fu", "r", "e", "tcll", "o", "ed", "uce", "er", "e"]}
+italian.txt {"voy_raw": -5.95, "shuf_raw": -6.285, "syn_raw": -3.495, "syn_acc": 0.851, "plain_ref": -2.609, "lines": ["un", "ai", "lea", "fi", "s", "e", "tnmm", "e", "ec", "nna", "as", "e"]}
+Traceback (most recent call last):
+  File "src/exp8_cluster_solve.py", line 57, in <module>
+    hs=syms[ch]; w=np.array([1/(i+1) for i in range(len(hs))]); w/=w.sum(); sy=hs[rng.choice(len(hs),p=w)]; x.append(sy); truth[sy]=ch
+       ~~~~^^^^
+KeyError: 'q'

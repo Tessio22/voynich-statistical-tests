@@ -1,0 +1,3 @@
+word tokens 21916 symbols 823
+czech.txt {"voy_raw": -6.014, "shuf_raw": -6.353, "syn_raw": -4.939, "syn_acc": 0.513, "plain_ref": -3.538, "lines": ["lr", "bh", "kpn", "zy", "u", "a", "srzz", "p", "an", "dra", "au", "a"]}
+catalan.txt {"voy_raw": -5.822, "shuf_raw": -5.987, "syn_raw": -4.113, "syn_acc": 0.73, "plain_ref": -2.64, "lines": ["ue", "pg", "tcn", "bo", "l", "t", "remm", "c", "td", "aea", "al", "t"]}

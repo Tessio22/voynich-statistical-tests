@@ -1,0 +1,23 @@
+Latin training words 601959
+CONTROL: solved score -7.229, true-key score -7.884, shuffled-control -7.507, token accuracy 0.283
+VOYNICH: score -6.958   shuffled Voynich -6.998
+   kachyd ykaN aN akaN choN choNy chNed y koN choNdy 
+   => _ quod et idem et hoc _ hoc enim hoc
+   doNy chaN oNy kaN chkaN chaN ade chaN chaNdan 
+   => genus quod si est autem quod _ quod _
+   dyaN cheky oN ykaN chod choaNy ched daNaN dy 
+   => _ quod est quod si _ autem enim si
+   doN okey okeodNoNoky chiaNdaN okaN oN okan 
+   => si est _ _ est est genus
+   daNy cheaN chaN chaN chaN 
+   => si quod quod quod quod
+   odaN cy choN choy oydaN ch d choaN chodaNy 
+   => quod _ et iam _ ratio autem neque aliud
+   ychey chody okchoy okchoN chochy odchy daN choN kod 
+   => hoc si _ autem haec is est et sint
+   daN chod choN chody 
+   => est si et si
+   ydaN chedaN oNd chey ykaN chochy chodaNed 
+   => haec si tamen non quod haec _
+   okcho kchoy okaNN okeoN okan chodaN dchey daN 
+   => haec _ _ non genus si hoc est

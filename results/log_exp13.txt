@@ -1,0 +1,20 @@
+pages used 17 first words: {'f9v': 'fochor', 'f65v': 'cphy', 'f4r': 'kodalchy', 'f29r': 'posaiin', 'f1v': 'kchsy', 'f25v': 'poeeaiin', 'f31r': 'keedey', 'f32r': 'fchaiin', 'f51v': 'poshody', 'f56r': 'oty', 'f2r': 'kydainy', 'f3v': 'koaiin', 'f13r': 'torshor', 'f53r': 'kodamchocthody', 'f44r': 'tshodpy', 'f90r1': 'poleeol', 'f36v': 'pcharasy'}
+POSITIVE CONTROL (synthetic encoded names): observed 0.990  null 0.699±0.028  max null 0.741  p=0.048
+VOYNICH herbal pages: observed 0.674  null 0.658±0.023  max null 0.706  p=0.286
+  f9v    fochor       -> mac        ~ macesky          sim=1.00
+  f65v   cphy         -> maor       ~ matricaria       sim=0.75
+  f4r    kodalchy     -> koaar      ~ iohanniskraut    sim=0.40
+  f29r   posaiin      -> ban        ~ bardane          sim=0.67
+  f1v    kchsy        -> abr        ~ atropa           sim=0.67
+  f25v   poeeaiin     -> lan        ~ lancea           sim=1.00
+  f31r   keedey       -> amaor      ~ alterchum        sim=0.40
+  f32r   fchaiin      -> maan       ~ mata             sim=0.50
+  f51v   poshody      -> bor        ~ borago           sim=1.00
+  f56r   oty          -> bor        ~ borretsch        sim=1.00
+  f2r    kydainy      -> rla        ~ blauer           sim=0.67
+  f3v    koaiin       -> kan        ~ kaur             sim=0.67
+  f13r   torshor      -> lar        ~ farfaro          sim=0.67
+  f53r   kodamchocthody -> oalanor    ~ alant            sim=0.57
+  f44r   tshodpy      -> hbolr      ~ helleborusalbus  sim=0.40
+  f90r1  poleeol      -> ak         ~ mak              sim=0.67
+  f36v   pcharasy     -> laacabr    ~ cannabus         sim=0.43

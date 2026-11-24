@@ -1,0 +1,3 @@
+glyph tokens 80751 symbols 37
+latin.txt {"voy_raw": -5.005, "shuf_raw": -5.874, "syn_raw": -2.994, "syn_acc": 0.992, "plain_ref": -2.927, "lines": ["lausantareredniosere", "npansautaraidadanca", "brisnsaredeadinao", "otiitiegnemetdfancasansa", "buiadadada", "nxredenrgdeareca", "riresuetueueduquese", "oredere", "qdigagditarerdecami", "sresretatiesarecapio", "repisecaddecaffdireqc", "qoueouecausadse"]}
+italian.txt {"voy_raw": -5.241, "shuf_raw": -6.566, "syn_raw": -3.148, "syn_acc": 0.93, "plain_ref": -2.686, "lines": ["doinolsotatamleunata", "lrolnoisotoemomolco", "qtenlnotamaomelou", "useeseaplarasmfolconolno", "hieomomomo", "lutamaltpmaotaco", "tetaniasiaiamigiana", "utamata", "gmepopmesotatmacore", "ntantasoseanotacoreu", "tarenacommacoffmetagc", "guiauiacoinomna"]}

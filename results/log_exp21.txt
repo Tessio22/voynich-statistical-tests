@@ -1,0 +1,18 @@
+CONTROL (Latin held-out, homophonic word cipher, K=400): score -6.573  plain -7.874  token accuracy 0.110
+VOYNICH collapsed words K=400: score -7.787   shuffled Voynich -8.013
+   kachyd ykaN aN akaN choN choNy chNed y koN choNdy 
+   => _ cum aceto _ melle et _ aceto et sic
+   doNy chaN oNy kaN chkaN chaN ade chaN chaNdan 
+   => cum melle in et cum melle _ melle _
+   dyaN cheky oN ykaN chod choaNy ched daNaN dy 
+   => _ aceto cum cum et _ melle et aceto
+   doN okey okeodNoNoky chiaNdaN okaN oN okan 
+   => et aceto _ _ et cum et
+   daNy cheaN chaN chaN chaN 
+   => in aceto melle melle melle
+   odaN cy choN choy oydaN ch d choaN chodaNy 
+   => et _ melle et _ melle et cum _
+   ychey chody okchoy okchoN chochy odchy daN choN kod 
+   => oleo aceto _ aceto aceto _ et melle uel
+   daN chod choN chody 
+   => et et melle aceto

@@ -1,0 +1,2 @@
+glyph tokens 144048 symbols 37
+hebrew.txt {"voy_raw": -4.74, "shuf_raw": -5.451, "syn_raw": -5.61, "syn_acc": 0.321, "plain_ref": -4.28, "lines": ["xhradavhmhjhnhekymkyjapjwdavyjkymla", "dyjachjyjavhzrnhekhjhdwphjphjlht", "dahtkwvayjavhekylpyhjapwdlhjheda", "dyeynwwaynwydjymynapshjlheyvheyjyvht", "dhzarwhjphephjphe", "ylhjtakympyayalhjkdpyhekylhja", "akwakylayvryaynrymrypaydralhqryjvyd", "lhekydpymkyla", "alhqpwdheymdpwaanhqkykapylhmwd", "yvkyvkyaynhzqynwymyvhtkylhqdcwalhe", "kyacwavylhepapylhssmdpwakyymlhql", "lhqyerymylherylhqrlayvhqpavyl"]}

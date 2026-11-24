@@ -1,0 +1,22 @@
+latin: training tokens 602537, V=400, K=400
+CONTROL: accuracy 0.685  loglik/token -4.117  shuffled -4.259  gain 0.142
+VOYNICH: loglik/token -6.517  shuffled -6.616  gain 0.099
+   kachyd ykaN aN akaN choN choNy chNed y koN choNdy 
+   => _ ab eo _ cum melle _ quod inter se
+   doNy chaN oNy kaN chkaN chaN ade chaN chaNdan 
+   => faciunt qui parte ex iis se _ a _
+   dyaN cheky oN ykaN chod choaNy ched daNaN dy 
+   => _ hoc ex quibus apud _ dictus sed se
+   doN okey okeodNoNoky chiaNdaN okaN oN okan 
+   => sed non _ _ et ex suo
+   daNy cheaN chaN chaN chaN 
+   => se ea quae per se
+   odaN cy choN choy oydaN ch d choaN chodaNy 
+   => per _ cum pro _ ab eo loco _
+   ychey chody okchoy okchoN chochy odchy daN choN kod 
+   => nec ante _ eius apud _ et cum _
+   daN chod choN chody 
+   => et apud eos eius
+GENERATOR: loglik/token -6.292  shuffled -6.330  gain 0.038
+WRONG LANGUAGE italian.txt: loglik/token -6.023  shuffled -6.307  gain 0.283
+WRONG LANGUAGE czech.txt: loglik/token -5.602  shuffled -5.895  gain 0.292

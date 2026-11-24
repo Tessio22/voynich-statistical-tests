@@ -1,0 +1,22 @@
+arabic: training tokens 88803, V=400, K=400
+CONTROL: accuracy 0.539  loglik/token -4.454  shuffled -4.680  gain 0.226
+VOYNICH: loglik/token -6.280  shuffled -6.384  gain 0.104
+   kachyd ykaN aN akaN choN choNy chNed y koN choNdy 
+   => _ Axy wx _ swB mcBw _ bCek uby BCy
+   doNy chaN oNy kaN chkaN chaN ade chaN chaNdan 
+   => xy dnkBg cBy uB Biw swB _ ex _
+   dyaN cheky oN ykaN chod choaNy ched daNaN dy 
+   => _ Avi xb bwciy Axy _ Axyz bwB bwbspba
+   doN okey okeodNoNoky chiaNdaN okaN oN okan 
+   => cw wz _ _ uB wb AwCy
+   daNy cheaN chaN chaN chaN 
+   => uB Cw dnkBg spw spw
+   odaN cy choN choy oydaN ch d choaN chodaNy 
+   => bwB _ snk dnkBg _ AbwsnkAy dnkBg spw _
+   ychey chody okchoy okchoN chochy odchy daN choN kod 
+   => Abxb ex _ bjb bwuow _ xy Cby kcxb
+   daN chod choN chody 
+   => xy bwmbim snk bmcbc
+GENERATOR: loglik/token -6.100  shuffled -6.135  gain 0.035
+WRONG LANGUAGE italian.txt: loglik/token -5.947  shuffled -6.210  gain 0.262
+WRONG LANGUAGE czech.txt: loglik/token -5.537  shuffled -5.830  gain 0.292

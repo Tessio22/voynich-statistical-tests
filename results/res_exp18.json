@@ -1,0 +1,223 @@
+{
+ "feats": {
+  "f25v": [
+   "belly",
+   "bladder",
+   "blood",
+   "dry",
+   "ears",
+   "eyes",
+   "fever",
+   "hot",
+   "kidney",
+   "menses",
+   "snake",
+   "swelling",
+   "teeth",
+   "wet",
+   "worms",
+   "wounds"
+  ],
+  "f44r": [
+   "birth",
+   "cough",
+   "dry",
+   "eyes",
+   "fever",
+   "head",
+   "hot",
+   "joints",
+   "menses",
+   "milk",
+   "skin",
+   "stomach",
+   "vomit",
+   "wet"
+  ],
+  "f3v": [
+   "belly",
+   "birth",
+   "dry",
+   "ears",
+   "eyes",
+   "fever",
+   "joints",
+   "menses",
+   "skin",
+   "swelling",
+   "teeth",
+   "thirst"
+  ],
+  "f10v": [
+   "belly",
+   "birth",
+   "dry",
+   "ears",
+   "eyes",
+   "fever",
+   "joints",
+   "menses",
+   "skin",
+   "swelling",
+   "teeth",
+   "thirst"
+  ],
+  "f53r": [
+   "belly",
+   "birth",
+   "cough",
+   "hot",
+   "kidney",
+   "menses",
+   "urine",
+   "wet"
+  ],
+  "f7r": [
+   "birth",
+   "bladder",
+   "dry",
+   "hot",
+   "kidney",
+   "menses",
+   "sleep",
+   "spleen",
+   "stomach"
+  ],
+  "f9r": [
+   "eyes",
+   "hot",
+   "teeth"
+  ],
+  "f27r": [
+   "belly",
+   "cold",
+   "dry",
+   "hot",
+   "liver",
+   "menses",
+   "stomach",
+   "urine",
+   "vomit"
+  ],
+  "f6r": [
+   "belly",
+   "birth",
+   "dry",
+   "fever",
+   "hot",
+   "joints",
+   "menses",
+   "poison",
+   "snake",
+   "spleen",
+   "teeth",
+   "wounds"
+  ],
+  "f45v": [
+   "birth",
+   "cough",
+   "dry",
+   "hot",
+   "menses",
+   "spleen"
+  ],
+  "f2r": [
+   "belly",
+   "birth",
+   "blood",
+   "ears",
+   "eyes",
+   "hot",
+   "joints",
+   "menses",
+   "wounds"
+  ],
+  "f9v": [
+   "blood",
+   "chest",
+   "cold",
+   "cough",
+   "dry",
+   "ears",
+   "head",
+   "hot",
+   "joints",
+   "menses",
+   "spleen",
+   "stomach",
+   "swelling",
+   "ulcer",
+   "wet",
+   "worms",
+   "wounds"
+  ],
+  "f56r": [
+   "chest",
+   "hot"
+  ],
+  "f51v": [
+   "chest",
+   "hot"
+  ],
+  "f32r": [
+   "birth",
+   "dry",
+   "ears",
+   "hot",
+   "menses",
+   "snake",
+   "stomach",
+   "vomit",
+   "worms"
+  ],
+  "f65v": [
+   "birth",
+   "bladder",
+   "dry",
+   "ears",
+   "fever",
+   "head",
+   "hot",
+   "kidney",
+   "liver",
+   "menses",
+   "snake",
+   "spleen",
+   "stomach",
+   "ulcer",
+   "urine"
+  ],
+  "f25r": [
+   "belly",
+   "blood",
+   "chest",
+   "cough",
+   "head",
+   "hot",
+   "joints",
+   "menses",
+   "snake",
+   "spleen",
+   "swelling",
+   "ulcer",
+   "wounds"
+  ],
+  "f38v": [
+   "belly",
+   "cold",
+   "eyes",
+   "milk",
+   "sleep",
+   "stomach",
+   "wet"
+  ],
+  "f8r": [
+   "belly",
+   "cold",
+   "hot",
+   "joints",
+   "spleen",
+   "wet"
+  ]
+ }
+}

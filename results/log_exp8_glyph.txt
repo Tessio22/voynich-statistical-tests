@@ -1,0 +1,8 @@
+glyph tokens 144048 symbols 37
+latin.txt {"voy_raw": -4.588, "shuf_raw": -6.186, "syn_raw": -2.986, "syn_acc": 0.992, "plain_ref": -2.92, "lines": ["hauipioaracamalueruecidcspioecuerti", "pecimacecioagumaluacapsdacdactax", "piaxusoiecioaluetdeacidsptacalpi", "pelemssiemsepceremidfactaleoaleceoax", "pagiusacdaldacdal", "etachiuerdeieitacupdealuetaci", "iusiuetieoueiemueruediepuitaduecoep", "taluepderueti", "itaddspalerpdsiimadueuidetarsp", "eoueoueiemagdemsereoaxuetadpmsital", "ueimsioetaldidetaffrpdsiueertadt", "tadelueretaluetadutieoaddioet"]}
+italian.txt {"voy_raw": -4.846, "shuf_raw": -6.929, "syn_raw": -3.183, "syn_acc": 0.931, "plain_ref": -2.687, "lines": ["qouapasorolocomderdelaflipaselderna", "pelatolelasobucomdolopifolfolnoq", "paoqdisaelasomdenfeolafipnolompa", "pemeciiaecieplerecafgolnomesomelesoq", "pobauiolfomfolfom", "enolzaderfeaeanoldpfeomdenola", "adiadenaesueaecueruefaepuanoluelsep", "nomdepferdena", "anolfipomerpfiaacoldedafenorip", "esdesdeaecoblecieresoqdenolptianom", "deatiasenomfafenoggrpfiadeernoln", "nolemuerenomuenolunaesolfasen"]}
+Traceback (most recent call last):
+  File "src/exp8_cluster_solve.py", line 57, in <module>
+    hs=syms[ch]; w=np.array([1/(i+1) for i in range(len(hs))]); w/=w.sum(); sy=hs[rng.choice(len(hs),p=w)]; x.append(sy); truth[sy]=ch
+       ~~~~^^^^
+KeyError: 'q'

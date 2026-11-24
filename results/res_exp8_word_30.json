@@ -1,0 +1,23 @@
+{
+ "occitan.txt": {
+  "voy_raw": -5.285,
+  "shuf_raw": -5.364,
+  "syn_raw": -4.249,
+  "syn_acc": 0.621,
+  "plain_ref": -3.381,
+  "lines": [
+   "il",
+   "up",
+   "rou",
+   "fo",
+   "t",
+   "i",
+   "nlmm",
+   "o",
+   "id",
+   "slu",
+   "ut",
+   "i"
+  ]
+ }
+}

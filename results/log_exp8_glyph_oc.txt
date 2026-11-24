@@ -1,0 +1,2 @@
+glyph tokens 144048 symbols 37
+occitan.txt {"voy_raw": -4.41, "shuf_raw": -5.68, "syn_raw": -4.176, "syn_acc": 0.786, "plain_ref": -3.373, "lines": ["zoispsrouotolomceucetsgtapsretceuns", "petshotetsrotilomcotopagotgotnoy", "psoycarsetsromcengeotsgapnotomps", "pemelaaselaepteuelsgpotnomerometeroy", "potsiaotgomgotgom", "enotgsceugesesnotcpgeomcenots", "scascenserieselieuiegsepisnobietrep", "nomcepgeucens", "snobgapomeupgasslobcecsgenouap", "ercerceselotbelaeueroycenobphasnom", "ceshasrenomgsgenoppupgasceeunobn", "nobemieuenomienobinserobgsren"]}
